@@ -3,9 +3,9 @@
 <a href="https://www.linkedin.com/company/buckaroo-online-payment-services/mycompany">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" position="center" alt="Buckaroo Linkedin">
 <a href="https://www.instagram.com/buckaroo_payments/">
-<img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=Flat&logo=Twitter&logoColor=white" position="center" alt="Buckaroo Twitter">
+<img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=Twitter&logoColor=white" position="center" alt="Buckaroo Twitter">
 <a href="https://www.instagram.com/buckaroo_payments/">
-<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=Flat&logo=Instagram&logoColor=white" position="center" alt="Buckaroo Instagram">
+<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white" position="center" alt="Buckaroo Instagram">
 </p>
 
 # 🎉Welcome to Buckaroo
