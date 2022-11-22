@@ -11,10 +11,10 @@
 # 🎉Welcome to Buckaroo
 ### Your strategic payment partner💳.<br> For online payments, subscription solutions, marketplaces split-payments and more.
 
-In 2005 Buckaroo started as the first iDEAL provider in the Netherlands. A little later, the option for SEPA direct debit and credit cards was added. Later that became more than 40 payment methods and gift cards. We are now a strategic payment partner for more than 5,000 organizations and companies. And we offer solutions for every payment issue. Every consumer wants to be able to pay quickly, easily and securely. A simple wish, but sometimes a big challenge in the changing world of ecommerce and digitization. Together with you, we look at where we can make a profit in the payment process.
+In 2005 Buckaroo started as the first iDEAL provider in the Netherlands. A little later, the option for SEPA direct debit and credit cards was added. Later on more than 40 payment methods and gift cards where added. We are now a strategic payment partner for more than 5,000 organizations and companies. And we offer solutions for every payment issue. Every consumer wants to be able to pay quickly, easily and securely. A simple wish, but sometimes a big challenge in the changing world of ecommerce and digitization. Together with you, we look at improvements that can be implemented in the payment process.
 
 ### Most chosen payment solutions💸:
-- Flexible checkout with choice of national and international payment methods
+- Flexible checkout with the choice of national and international payment methods.
 - Custom payment requests and payment reminders
 - Automatic debtor management with Credit Management
 - Collecting and managing subscriptions
@@ -52,24 +52,24 @@ If you have any feedback or questions, create an issue or contact [the Buckaroo 
 ## 🚀Ready made integrations:
   
 ### :electric_plug: Plugins
-| Description | Downloads | Latest Release version |
-|----------|:-------------:|:-------------:|
-| [Magento 1](https://badgen.net/github/release/buckaroo-it/Magento)   |![Total Downloads](https://img.shields.io/packagist/dt/buckaroo/magento1)|[![Latest release](https://badgen.net/github/release/buckaroo-it/Magento)](https://github.com/buckaroo-it/Magento/releases)|
-| [Magento 2](https://badgen.net/github/release/buckaroo-it/Magento2)   |![Total Downloads](https://img.shields.io/packagist/dt/buckaroo/magento2)|[![Latest release](https://badgen.net/github/release/buckaroo-it/Magento2)](https://github.com/buckaroo-it/Magento2/releases)|
-| [Shopware 5](https://badgen.net/github/release/buckaroo-it/Shopware_5)  |![Total Downloads](https://img.shields.io/badge/downloads-N%2FA-lightgrey)|[![Latest release](https://badgen.net/github/release/buckaroo-it/Shopware_5)](https://github.com/buckaroo-it/Shopware_5/releases)|
-| [Shopware 6](https://badgen.net/github/release/buckaroo-it/Shopware_6)  |![Total Downloads](https://img.shields.io/badge/downloads-N%2FA-lightgrey)|[![Latest release](https://badgen.net/github/release/buckaroo-it/Shopware_6)](https://github.com/buckaroo-it/Shopware_6/releases)|
-| [WooCommerce](https://badgen.net/github/release/buckaroo-it/WooCommerce) |![Total Downloads](https://img.shields.io/wordpress/plugin/dt/wc-buckaroo-bpe-gateway)|[![Latest release](https://badgen.net/github/release/buckaroo-it/WooCommerce)](https://github.com/buckaroo-it/WooCommerce/releases)|
-| [PrestaShop](https://badgen.net/github/release/buckaroo-it/PrestaShop)  |![Total Downloads](https://img.shields.io/badge/downloads-N%2FA-lightgrey)|[![Latest release](https://badgen.net/github/release/buckaroo-it/PrestaShop)](https://github.com/buckaroo-it/PrestaShop/releases)|
+| Description | Latest version | Documentation | Downloads |
+|----------|:-------------:|:-------------:|:-------------:|
+| [Magento 1](https://badgen.net/github/release/buckaroo-it/Magento) |[![Latest release](https://badgen.net/github/release/buckaroo-it/Magento)](https://github.com/buckaroo-it/Magento/releases)|[![Documentation](https://img.shields.io/badge/documentation-URL-orange)](https://docs.buckaroo.io/docs/magento1)|![Total Downloads](https://img.shields.io/packagist/dt/buckaroo/magento1)|
+| [Magento 2](https://badgen.net/github/release/buckaroo-it/Magento2) |[![Latest release](https://badgen.net/github/release/buckaroo-it/Magento2)](https://github.com/buckaroo-it/Magento2/releases)|[![Documentation](https://img.shields.io/badge/documentation-URL-orange)](https://docs.buckaroo.io/docs/magento-2)|![Total Downloads](https://img.shields.io/packagist/dt/buckaroo/magento2)|
+| [Shopware 5](https://badgen.net/github/release/buckaroo-it/Shopware_5) |[![Latest release](https://badgen.net/github/release/buckaroo-it/Shopware_5)](https://github.com/buckaroo-it/Shopware_5/releases)|[![Documentation](https://img.shields.io/badge/documentation-URL-orange)](https://docs.buckaroo.io/docs/shopware-5)|![Total Downloads](https://img.shields.io/badge/downloads-N%2FA-lightgrey)|
+| [Shopware 6](https://badgen.net/github/release/buckaroo-it/Shopware_6) |[![Latest release](https://badgen.net/github/release/buckaroo-it/Shopware_6)](https://github.com/buckaroo-it/Shopware_6/releases)|[![Documentation](https://img.shields.io/badge/documentation-URL-orange)](https://docs.buckaroo.io/docs/shopware-6)|![Total Downloads](https://img.shields.io/badge/downloads-N%2FA-lightgrey)|
+| [WooCommerce](https://badgen.net/github/release/buckaroo-it/WooCommerce) |[![Latest release](https://badgen.net/github/release/buckaroo-it/WooCommerce)](https://github.com/buckaroo-it/WooCommerce/releases)|[![Documentation](https://img.shields.io/badge/documentation-URL-orange)](https://docs.buckaroo.io/docs/woocommerce)|![Total Downloads](https://img.shields.io/wordpress/plugin/dt/wc-buckaroo-bpe-gateway)|
+| [PrestaShop](https://badgen.net/github/release/buckaroo-it/PrestaShop) |[![Latest release](https://badgen.net/github/release/buckaroo-it/PrestaShop)](https://github.com/buckaroo-it/PrestaShop/releases)|[![Documentation](https://img.shields.io/badge/documentation-URL-orange)](https://docs.buckaroo.io/docs/prestashop)|![Total Downloads](https://img.shields.io/badge/downloads-N%2FA-lightgrey)|
 
 ### :iphone: Apps
-| Description | Latest Release version |
-|----------|:-------------:|
-| [Lightspeed](https://www.lightspeedhq.nl/ecommerce/store/apps/buckaroo-payments/)   |[![Latest release](https://img.shields.io/badge/release-no%20versioning-blue)](https://www.lightspeedhq.nl/ecommerce/store/apps/buckaroo-payments/)|
-| [CCV Shop](https://www.ccvshop.nl/app-store-detail?id=1020)   |[![Latest release](https://img.shields.io/badge/release-no%20versioning-blue)](https://www.ccvshop.nl/app-store-detail?id=1020)|
+| Description | Latest version | Documentation | Downloads |
+|----------|:-------------:|:-------------:|:-------------:|
+| [Lightspeed](https://www.lightspeedhq.nl/ecommerce/store/apps/buckaroo-payments/)|[![Latest release](https://img.shields.io/badge/release-no%20versioning-blue)](https://www.lightspeedhq.nl/ecommerce/store/apps/buckaroo-payments/)| [![Documentation](https://img.shields.io/badge/documentation-URL-orange)](https://docs.buckaroo.io/docs/lightspeed)|![Total Downloads](https://img.shields.io/badge/downloads-N%2FA-lightgrey)|
+| [CCV Shop](https://www.ccvshop.nl/app-store-detail?id=1020)|[![Latest release](https://img.shields.io/badge/release-no%20versioning-blue)](https://www.ccvshop.nl/app-store-detail?id=1020)|[![Documentation](https://img.shields.io/badge/documentation-URL-orange)](https://www.ccvshop.nl/app-store-detail?id=1020)|![Total Downloads](https://img.shields.io/badge/downloads-N%2FA-lightgrey)|
 
 <br>
 
 ## 💼 Want to join the Buckaroo team?
 We are regularly looking for new colleagues to keep growing. Grow with us and take a look at our vacansies.<br>
 :point_right: [EN - Click here for the English overview](https://www.buckaroo.eu/about-us/vacancies)<br>
-:point_right: [NL - Click here for the Dutch overview](https://www.buckaroo.nl/over-ons/vacatures)<br>
+:point_right: [NL - Klik hier voor een Nederlandstalig overzicht](https://www.buckaroo.nl/over-ons/vacatures)<br>
