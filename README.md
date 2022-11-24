@@ -33,6 +33,7 @@ If you have any feedback or questions, create an issue or contact [the Buckaroo 
 - 👷 [Buckaroo Development page](https://dev.buckaroo.nl)
 - 🧪 [Buckaroo Github page](https://github.com/buckaroo-it)
 - 🎲 [Buckaroo Playground](https://dev.buckaroo.nl/Playground)
+- 📚 [Buckaroo Docs](https://docs.buckaroo.io)
 
 <br>
 
