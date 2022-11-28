@@ -18,7 +18,7 @@ In 2005 Buckaroo started as the first iDEAL provider in the Netherlands. A littl
 - Custom payment requests and payment reminders
 - Automatic debtor management with Credit Management
 - Collecting and managing subscriptions
-- Ready-made integrations (plugins)
+- Ready-made integrations (Plugins & Apps)
 
 ### 👩‍💻No Buckaroo account yet?
 - [EN - Click here to create a Buckaroo account](https://www.buckaroo.eu/start)<br>
@@ -73,11 +73,13 @@ If you have any feedback or questions, create an issue or contact [the Buckaroo 
 ## 📜 Feel free to contribute
 We really appreciate it when developers contribute to improve the Buckaroo plugins, libraries and SDK's.<br>
 If you want to contribute as well, then please follow our Contribution Guidelines.<br>
-You can find them in almost every Github repository. Please add new pull requests only to the "develop" branch and not into our "master" branch.<br>
+You can find them in almost every Github repository.
+
+> Please add new pull requests only to the "**develop**" branch and not into our "**master**" branch.<br>
   
 <br>
 
-## 💼 Want to join the Buckaroo team?
+## 💼 Want to be part of the Buckaroo team?
 We are regularly looking for new colleagues to keep growing. Grow with us and take a look at our vacansies.<br>
 :point_right: [EN - Click here for the English overview](https://www.buckaroo.eu/about-us/vacancies)<br>
 :point_right: [NL - Klik hier voor een Nederlandstalig overzicht](https://www.buckaroo.nl/over-ons/vacatures)<br>
