@@ -11,14 +11,14 @@
 # 🎉Welcome to Buckaroo
 ### Your strategic payment partner💳.<br> For online payments, subscription solutions, marketplaces split-payments and more.
 
-In 2005 Buckaroo started as the first iDEAL provider in the Netherlands. A little later, the option for SEPA direct debit and credit cards was added. Later on more than 40 payment methods and gift cards where added. We are now a strategic payment partner for more than 5,000 organizations and companies. And we offer solutions for every payment issue. Every consumer wants to be able to pay quickly, easily and securely. A simple wish, but sometimes a big challenge in the changing world of ecommerce and digitization. Together with you, we look at improvements that can be implemented in the payment process.
+In 2005 Buckaroo started as the first iDEAL provider in the Netherlands. A little later, the option for SEPA direct debit and credit cards was added. Later on more than 40+ payment methods and gift cards where added. We are now a strategic payment partner for more than 5,000 organizations and companies. And we offer solutions for every payment issue. Every consumer wants to be able to pay quickly, easily and securely. A simple wish, but sometimes a big challenge in the changing world of ecommerce and digitization. Together with you, we look at improvements that can be implemented in the payment process.
 
 ### Most chosen payment solutions💸:
 - Flexible checkout with the choice of national and international payment methods.
-- Custom payment requests and payment reminders
-- Automatic debtor management with Credit Management
-- Collecting and managing subscriptions
-- Ready-made integrations (Plugins & Apps)
+- Custom payment requests and payment reminders.
+- Automatic debtor management with Credit Management.
+- Collecting and managing subscriptions.
+- Ready-made integrations (Plugins & Apps).
 
 ### 👩‍💻No Buckaroo account yet?
 - [EN - Click here to create a Buckaroo account](https://www.buckaroo.eu/start)<br>
@@ -80,6 +80,6 @@ You can find them in almost every Github repository.
 <br>
 
 ## 💼 Want to be part of the Buckaroo team?
-We are regularly looking for new colleagues to keep growing. Grow with us and take a look at our vacansies.<br>
+We are regularly looking for new colleagues to keep growing. Grow with us and take a look at our job offers.<br>
 :point_right: [EN - Click here for the English overview](https://www.buckaroo.eu/about-us/vacancies)<br>
 :point_right: [NL - Klik hier voor een Nederlandstalig overzicht](https://www.buckaroo.nl/over-ons/vacatures)<br>
