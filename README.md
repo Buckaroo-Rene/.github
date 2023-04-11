@@ -12,7 +12,7 @@ In 2005 Buckaroo started as the first iDEAL provider in the Netherlands. A littl
 - Custom payment requests and payment reminders.
 - Automatic debtor management with Credit Management.
 - Collecting and managing subscriptions.
-- Ready-made integrations (Plugins & Apps).
+- Ready-made integrations (Plugins, Apps & SDK's).
 
 ### 👩‍💻No Buckaroo account yet?
 - [EN - Click here to create a Buckaroo account](https://www.buckaroo.eu/start)<br>
