@@ -1,5 +1,6 @@
 <p align="center">
   <img src="https://github.com/Buckaroo-Rene/.github/blob/main/Buckaroo_header.png" position="center">
+| EN: <a href="https://www.buckaroo.eu/">www.buckaroo.eu</a> | NL: <a href="https://www.buckaroo.nl/">www.buckaroo.nl</a> |
 </p>
 
 # 🎉Welcome to Buckaroo
