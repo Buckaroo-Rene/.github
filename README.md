@@ -3,19 +3,19 @@
 | EN: <a href="https://www.buckaroo.eu/">www.buckaroo.eu</a> | NL: <a href="https://www.buckaroo.nl/">www.buckaroo.nl</a> |
 </p>
 
-# 🎉Welcome to Buckaroo
-### Your strategic payment partner💳.<br> For online payments, subscription solutions, marketplaces split-payments and more.
+# 🎉 Welcome to Buckaroo
+### Your strategic payment partner 💳.<br> For online payments, subscription solutions, marketplaces split-payments and more.
 
 In 2005 Buckaroo started as the first iDEAL provider in the Netherlands. A little later, the option for SEPA direct debit and credit cards was added. Later on more than 40+ payment methods and gift cards where added. We are now a strategic payment partner for more than 5,000 organizations and companies. And we offer solutions for every payment issue. Every consumer wants to be able to pay quickly, easily and securely. A simple wish, but sometimes a big challenge in the changing world of ecommerce and digitization. Together with you, we look at improvements that can be implemented in the payment process.
 
-### Most chosen payment solutions💸:
+### Most chosen payment solutions 💸:
 - Flexible checkout with the choice of national and international payment methods.
 - Custom payment requests and payment reminders.
 - Automatic debtor management with Credit Management.
 - Collecting and managing subscriptions.
 - Ready-made integrations (Plugins, Apps & SDK's).
 
-### 👩‍💻No Buckaroo account yet?
+### 👩‍💻 No Buckaroo account yet?
 - [EN - Click here to create a Buckaroo account](https://www.buckaroo.eu/start)<br>
 - [NL - Klik hier om een Buckaroo account aan te maken](https://www.buckaroo.nl/start)<br>
 
@@ -24,12 +24,12 @@ If you have any feedback or questions, create an issue or contact [the Buckaroo 
 <br>  
 
 ## 📃Documentation Pages:
-- 📚 [Buckaroo Docs](https://docs.buckaroo.io)
-- 🧪 [Buckaroo Github page](https://github.com/buckaroo-it)
+- 📚 [Docs](https://docs.buckaroo.io)
+- 🧪 [Github page](https://github.com/buckaroo-it)
 
 <br>
 
-## 📚 Libraries and SDK's
+## 📚 SDK's and Libraries
 | Description | Icon |
 |----------|:-------------:|
 |[.NET SDK](https://docs.buckaroo.io/docs/net-sdk)|![.Net SDK](https://img.shields.io/badge/.NET-5C2D91?style=Flat&logo=.net&logoColor=white)|
@@ -42,7 +42,7 @@ If you have any feedback or questions, create an issue or contact [the Buckaroo 
 
 <br>
 
-## 🚀Ready made integrations:
+## 🚀 Ready made integrations:
   
 ### :electric_plug: Plugins
 | Description | Latest version | Documentation | Downloads |
