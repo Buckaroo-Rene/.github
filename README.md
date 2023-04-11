@@ -29,24 +29,21 @@ If you have any feedback or questions, create an issue or contact [the Buckaroo 
 <br>  
 
 ## 📃Documentation Pages:
-- 💬 [Buckaroo Support page](https://support.buckaroo.eu)  (also available in [Dutch](https://support.buckaroo.nl))
-- 👷 [Buckaroo Development page](https://dev.buckaroo.nl)
-- 🧪 [Buckaroo Github page](https://github.com/buckaroo-it)
-- 🎲 [Buckaroo Playground](https://dev.buckaroo.nl/Playground)
 - 📚 [Buckaroo Docs](https://docs.buckaroo.io)
+- 🧪 [Buckaroo Github page](https://github.com/buckaroo-it)
 
 <br>
 
 ## 📚 Libraries and SDK's
 | Description | Icon |
 |----------|:-------------:|
-|[.NET SDK](https://dev.buckaroo.nl/Sdks/netsdk)|![.Net SDK](https://img.shields.io/badge/.NET-5C2D91?style=Flat&logo=.net&logoColor=white)|
-|[PHP SDK](https://github.com/buckaroo-it/BuckarooSDK_PHP)|![PHP SDK](https://img.shields.io/badge/php-%23777BB4.svg?style=Flat&logo=php&logoColor=white)|
-|[Client-side encryption SDK for Android](https://dev.buckaroo.nl/Sdks/androidclientsideencryptionsdk)|![Android Client-Side Encryption SDK](https://img.shields.io/badge/Android-3DDC84?style=Flat&logo=android&logoColor=white)|
-|[Client-side encryption SDK for iOS](https://dev.buckaroo.nl/Sdks/iosclientsideencryptionsdk)|![iOS Client-side Encryption SDK](https://img.shields.io/badge/iOS-000000?style=Flat&logo=ios&logoColor=white)|
-|[JavaScript Client-Side Encryption SDK](https://dev.buckaroo.nl/Sdks/jsclientsideencryptionsdk)|![JavaScript Client-Side Encryption SDK](https://img.shields.io/badge/javascript-%23323330.svg?style=Flat&logo=javascript&logoColor=%23F7DF1E)|
-|[Client SDK (e.g. iDEAL, PayPal, Payconiq, Bancontact)](https://dev.buckaroo.nl/Sdks/clientsdk)|N/A|
-|[3DS2 Client SDK](https://dev.buckaroo.nl/Sdks/3ds2clientsdk)|N/A|
+|[.NET SDK](https://docs.buckaroo.io/docs/net-sdk)|![.Net SDK](https://img.shields.io/badge/.NET-5C2D91?style=Flat&logo=.net&logoColor=white)|
+|[PHP SDK](https://docs.buckaroo.io/docs/php-sdk)|![PHP SDK](https://img.shields.io/badge/php-%23777BB4.svg?style=Flat&logo=php&logoColor=white)|
+|[Client-side encryption SDK for Android](https://docs.buckaroo.io/docs/android-client-side-encryption-sdk)|![Android Client-Side Encryption SDK](https://img.shields.io/badge/Android-3DDC84?style=Flat&logo=android&logoColor=white)|
+|[Client-side encryption SDK for iOS](https://docs.buckaroo.io/docs/ios-client-side-encryption-sdk)|![iOS Client-side Encryption SDK](https://img.shields.io/badge/iOS-000000?style=Flat&logo=ios&logoColor=white)|
+|[JavaScript Client-Side Encryption SDK](https://docs.buckaroo.io/docs/js-client-side-encryption-sdk)|![JavaScript Client-Side Encryption SDK](https://img.shields.io/badge/javascript-%23323330.svg?style=Flat&logo=javascript&logoColor=%23F7DF1E)|
+|[Client SDK (e.g. iDEAL, PayPal, Payconiq, Bancontact)](https://docs.buckaroo.io/docs/client-sdk)|N/A|
+|[3DS2 Client SDK](https://docs.buckaroo.io/docs/3ds2-client-sdk)|N/A|
 
 <br>
 
@@ -55,7 +52,7 @@ If you have any feedback or questions, create an issue or contact [the Buckaroo 
 ### :electric_plug: Plugins
 | Description | Latest version | Documentation | Downloads |
 |----------|:-------------:|:-------------:|:-------------:|
-| [Magento 1](https://github.com/buckaroo-it/Magento) |[![Latest release](https://badgen.net/github/release/buckaroo-it/Magento)](https://github.com/buckaroo-it/Magento/releases)|[![Documentation](https://img.shields.io/badge/documentation-URL-orange)](https://docs.buckaroo.io/docs/magento1)|[![Total Downloads](https://img.shields.io/packagist/dt/buckaroo/magento1)](https://github.com/buckaroo-it/Magento)|
+| [Magento 1](https://github.com/buckaroo-it/Magento) |[![Latest release](https://badgen.net/github/release/buckaroo-it/Magento)](https://github.com/buckaroo-it/Magento/releases)|[![Documentation](https://img.shields.io/badge/documentation-URL-orange)](https://docs.buckaroo.io/docs/magento-1)|[![Total Downloads](https://img.shields.io/packagist/dt/buckaroo/magento1)](https://github.com/buckaroo-it/Magento)|
 | [Magento 2](https://github.com/buckaroo-it/Magento2) |[![Latest release](https://badgen.net/github/release/buckaroo-it/Magento2)](https://github.com/buckaroo-it/Magento2/releases)|[![Documentation](https://img.shields.io/badge/documentation-URL-orange)](https://docs.buckaroo.io/docs/magento-2)|[![Total Downloads](https://img.shields.io/packagist/dt/buckaroo/magento2)](https://github.com/buckaroo-it/Magento2)|
 | [Shopware 5](https://github.com/buckaroo-it/Shopware_5) |[![Latest release](https://badgen.net/github/release/buckaroo-it/Shopware_5)](https://github.com/buckaroo-it/Shopware_5/releases)|[![Documentation](https://img.shields.io/badge/documentation-URL-orange)](https://docs.buckaroo.io/docs/shopware-5)|[![Total Downloads](https://img.shields.io/badge/downloads-N%2FA-lightgrey)](https://github.com/buckaroo-it/Shopware_5)|
 | [Shopware 6](https://github.com/buckaroo-it/Shopware_6) |[![Latest release](https://badgen.net/github/release/buckaroo-it/Shopware_6)](https://github.com/buckaroo-it/Shopware_6/releases)|[![Documentation](https://img.shields.io/badge/documentation-URL-orange)](https://docs.buckaroo.io/docs/shopware-6)|[![Total Downloads](https://img.shields.io/badge/downloads-N%2FA-lightgrey)](https://github.com/buckaroo-it/Shopware_6)|
@@ -66,7 +63,7 @@ If you have any feedback or questions, create an issue or contact [the Buckaroo 
 | Description | Latest version | Documentation | Downloads |
 |----------|:-------------:|:-------------:|:-------------:|
 | [Lightspeed](https://www.lightspeedhq.nl/ecommerce/store/apps/buckaroo-payments/)|[![Latest release](https://img.shields.io/badge/release-no%20versioning-blue)](https://www.lightspeedhq.nl/ecommerce/store/apps/buckaroo-payments/)| [![Documentation](https://img.shields.io/badge/documentation-URL-orange)](https://docs.buckaroo.io/docs/lightspeed)|[![Total Downloads](https://img.shields.io/badge/downloads-N%2FA-lightgrey)](https://www.lightspeedhq.nl/ecommerce/store/apps/buckaroo-payments/)|
-| [CCV Shop](https://www.ccvshop.nl/app-store-detail?id=1020)|[![Latest release](https://img.shields.io/badge/release-no%20versioning-blue)](https://www.ccvshop.nl/app-store-detail?id=1020)|[![Documentation](https://img.shields.io/badge/documentation-URL-orange)](https://www.ccvshop.nl/app-store-detail?id=1020)|[![Total Downloads](https://img.shields.io/badge/downloads-N%2FA-lightgrey)](https://www.ccvshop.nl/app-store-detail?id=1020)|
+| [BigCommerce](https://www.bigcommerce.com/apps/buckaroo-payments/)|[![Latest release](https://img.shields.io/badge/release-no%20versioning-blue)](https://www.bigcommerce.com/apps/buckaroo-payments/)|[![Documentation](https://img.shields.io/badge/documentation-URL-orange)](https://docs.buckaroo.io/docs/bigcommerce)|[![Total Downloads](https://img.shields.io/badge/downloads-N%2FA-lightgrey)](https://www.bigcommerce.com/apps/buckaroo-payments/)|
 
 <br>
 
