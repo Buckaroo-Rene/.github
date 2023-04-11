@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/105488705/201640019-d0e4ac26-ced3-47ea-8cc0-8d035f94119e.jpg" position="center">
+  <img src="https://github.com/Buckaroo-Rene/.github/blob/main/Buckaroo_header.png" position="center">
 <a href="https://www.linkedin.com/company/buckaroo-online-payment-services/mycompany">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" position="center" alt="Buckaroo Linkedin">
 <a href="https://www.instagram.com/buckaroo_payments/">
