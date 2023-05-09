@@ -24,8 +24,9 @@ If you have any feedback or questions, create an issue or contact [the Buckaroo 
 <br>  
 
 ## 📃Documentation Pages:
-- 📚 [Docs](https://docs.buckaroo.io)
-- 🧪 [Github page](https://github.com/buckaroo-it)
+- 🏠 [Buckaroo Homepage](https://buckaroo.eu)
+- 📚 [Buckaroo Docs](https://docs.buckaroo.io)
+- 🧪 [Buckaroo Github page](https://github.com/buckaroo-it)
 
 <br>
 
@@ -34,6 +35,7 @@ If you have any feedback or questions, create an issue or contact [the Buckaroo 
 |----------|:-------------:|
 |[.NET SDK](https://docs.buckaroo.io/docs/net-sdk)|![.Net SDK](https://img.shields.io/badge/.NET-5C2D91?style=Flat&logo=.net&logoColor=white)|
 |[PHP SDK](https://docs.buckaroo.io/docs/php-sdk)|![PHP SDK](https://img.shields.io/badge/php-%23777BB4.svg?style=Flat&logo=php&logoColor=white)|
+|[Node SDK](https://docs.buckaroo.io/docs/node-sdk)|![Node.js SDK](https://img.shields.io/badge/Node.js-%23323330.svg?style=Flat&logo=node.js&logoColor=%23F7DF1E)|
 |[Client-side encryption SDK for Android](https://docs.buckaroo.io/docs/android-client-side-encryption-sdk)|![Android Client-Side Encryption SDK](https://img.shields.io/badge/Android-3DDC84?style=Flat&logo=android&logoColor=white)|
 |[Client-side encryption SDK for iOS](https://docs.buckaroo.io/docs/ios-client-side-encryption-sdk)|![iOS Client-side Encryption SDK](https://img.shields.io/badge/iOS-000000?style=Flat&logo=ios&logoColor=white)|
 |[JavaScript Client-Side Encryption SDK](https://docs.buckaroo.io/docs/js-client-side-encryption-sdk)|![JavaScript Client-Side Encryption SDK](https://img.shields.io/badge/javascript-%23323330.svg?style=Flat&logo=javascript&logoColor=%23F7DF1E)|
