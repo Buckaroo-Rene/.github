@@ -44,7 +44,7 @@ If you have any feedback or questions, create an issue or contact [the Buckaroo 
 
 <br>
 
-## 🚀 Ready made integrations:
+## 🚀 Ready-To-Use integrations:
   
 ### :electric_plug: Plugins
 | Description | Latest version | Documentation | Downloads |
